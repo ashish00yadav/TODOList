@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signup">SignUp</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">SignIn</string>
+    <string name="login">Login</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="click_to_login">Login</string>
+    <string name="register">Create Account</string>
+
+
+</resources>
